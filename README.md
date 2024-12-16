@@ -1,11 +1,11 @@
 ### <div align="center">Sou Lucas, desenvolvedor Full-stack com foco em Back-end.</div>  
   
 
-- 🔭 Atualmente estou trabalhando no [SIZAC - Sistema de Inovação em Atividades Acadêmicas](https://...)  
-  
+- 💻 Presidente e CTO do <a href="https://.../" target="_blank">SIZAC - Sistema de Inovação em Atividades Acadêmicas</a>
+
+- 🔭 Atualmente estou trabalhando no [SIZAC - Sistema de Inovação em Atividades Acadêmicas](https://...)   
 
 - 🌱 Atualmente estou aprofundando mais em Front-end.  
-  
 
 <br/>  
 
@@ -77,7 +77,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lucas-sanz0&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucas-sanz0&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Status do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-sanz0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas"/>
+</div>
 
 <br/>  
 
@@ -87,9 +90,3 @@
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">CTO Presidente e Diretor de Tecnologia do <a href="https://.../" target="_blank">SIZAC - Sistema de Inovação em Atividades Acadêmicas</a></div>
